@@ -84,7 +84,7 @@
     "shelljs": "^0.8.2",
     "uglifyjs-webpack-plugin": "^1.1.1",
     "url-loader": "^1.0.1",
-    "vue": "^2.5.16",
+    "vue": "2.5.16",
     "vue-jest": "^2.3.0",
     "vue-loader": "^15.2.4",
     "vue-server-renderer": "^2.5.16",
